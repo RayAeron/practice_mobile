@@ -17,7 +17,7 @@ class Practice {
   });
 
   int idRating;
-  int finalAssessment;
+  double finalAssessment;
   String surname;
   String name;
   String patronymic;
